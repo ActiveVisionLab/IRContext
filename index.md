@@ -3,7 +3,7 @@ layout: index
 title: "Contextualising Implicit Representations for Semantic Tasks"
 ---
 
-<img src="images/teaser.png" alt="Teaser image" width="40%" style="display: block;margin-left: auto;margin-right: auto;">
+<img src="images/teaser.png" alt="Teaser image" width="70%" style="display: block;margin-left: auto;margin-right: auto;">
 
 This is the landing page for paper **Contextualising Implicit Representations for Semantic Tasks**.
 
