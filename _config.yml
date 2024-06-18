@@ -1,0 +1,14 @@
+title: "Contextualising Implicit Representations for Semantic Tasks"
+description: A method to improve the ease of use of implicit representations in semantic tasks.
+url: context.active.vision
+signoff: Theo W. Costain
+
+links:
+  - name: <strong>AVLCode</strong>
+    url: https://code.active.vision
+    external: true
+  - name: <strong>GitHub</strong>
+    url: https://github.com/ActiveVisionLab/IRContext
+    external: true
+
+permalink: pretty
